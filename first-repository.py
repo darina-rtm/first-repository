@@ -5,4 +5,4 @@ text = input("Введите любой текст: ")
 if is_palindrome(text):
   print("Это палиндром!")
 else:
-  print("Это не палиндром.")
+  print("Это не палиндром>^.^<")

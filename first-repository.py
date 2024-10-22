@@ -3,6 +3,6 @@ def is_palindrome(text):
   return text == text[::-1]
 text = input("Введите любой текст: ")
 if is_palindrome(text):
-  print("Это палинддддддддддддром!")
+  print("Это палиндром!")
 else:
   print("Это не палиндром.")
